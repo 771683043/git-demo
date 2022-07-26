@@ -19,3 +19,4 @@ hello git;hello pengjianwang!!!!hot-fix test
 2222222222222222222222222222333333333333333 by lhc
 3333333333333333333333333333333333333333333 by dongfang
 ssh免密登录代码拉取、推送测试！！
+gitee同步github测试！！！！
